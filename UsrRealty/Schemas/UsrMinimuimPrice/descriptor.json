@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3d9b4332-1106-439a-b9a0-7ce1a3fd8057",
+    "Name": "UsrMinimuimPrice",
+    "ModifiedOnUtc": "\/Date(1729164538000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Minuimuim Price source code",
+    "DependsOn": []
+  }
+}
